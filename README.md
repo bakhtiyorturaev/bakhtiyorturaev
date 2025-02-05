@@ -25,5 +25,6 @@
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bakhtiyorturaev&theme=react&hide_title=true&hide_border=true&area=true&color=00ff00)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=react&hide_title=true&langs_count=6)
 
 🔥 **Always Learning & Growing!**
