@@ -7,7 +7,7 @@
 - 💻 I love writing code and solving problems.
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Always+Lear+New+Things+🚀" alt="Typing SVG" />
 
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bakhtiyorturaev&show_icons=true&theme=radical)
