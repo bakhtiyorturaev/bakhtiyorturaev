@@ -7,7 +7,9 @@
 
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bakhtiyorturaev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical&langs_count=6)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical&langs_count=6" alt="Top Langs" height="300"/>
 
 ## 🚀 My Technologies!
 
@@ -25,6 +27,5 @@
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bakhtiyorturaev&theme=react&hide_title=true&hide_border=true&area=true&color=00ff00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=react&hide_title=true&langs_count=6)
 
 🔥 **Always Learning & Growing!**
