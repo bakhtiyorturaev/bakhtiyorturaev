@@ -3,12 +3,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/bakhtiyorturaev?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/bakhtiyorturaev?style=social)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Backend+Dasturchi;Python+%7C+Django+%7C+PostgreSQL;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bakhtiyorturaev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical)
-![Profile views](https://komarev.com/ghpvc/?username=bakhtiyorturaev&color=blue)
 
 ## 🚀 My Technologies!
 
