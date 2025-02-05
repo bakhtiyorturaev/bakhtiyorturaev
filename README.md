@@ -7,8 +7,6 @@
 - 💻 I love writing code and solving problems.
 
 
-![GitHub stars](https://img.shields.io/github/stars/bakhtiyorturaev?style=social)
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
 ## 📊 GitHub Stats
