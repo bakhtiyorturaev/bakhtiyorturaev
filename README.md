@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bakhtiyorturaev&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical&langs_count=6" alt="Top Langs" height="250"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakhtiyorturaev&layout=compact&theme=radical&langs_count=6" alt="Top Langs" height="200"/>
 
 ## 🚀 My Technologies!
 
