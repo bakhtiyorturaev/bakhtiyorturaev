@@ -1,5 +1,15 @@
 
-# 👋 Hello, I'm Bakhtiyor!
+# 👋 Hello, I'm **Bakhtiyor**! 
+
+## 🚀 Welcome to my GitHub profile!
+
+I'm a passionate **Python** backend developer and a **technology enthusiast**. I'm currently learning **Java**, **PostgreSQL**, and **Frontend technologies**. Let's build awesome things together!
+
+- 💻 I love writing code and solving problems.
+- 🌱 Currently learning **AI & Machine Learning**.
+- 📚 I'm also writing a **research paper** in the IT field.
+
+Feel free to explore my repositories and connect with me!
 ![GitHub followers](https://img.shields.io/github/followers/bakhtiyorturaev?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/bakhtiyorturaev?style=social)
 
